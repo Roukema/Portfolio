@@ -8,7 +8,7 @@ const PortfolioCard = (props) => {
   };
 
   return (
-    <div className="CardContainer">
+    <div className="CardContainer" onclick="">
       <div className="FlipCard">
         <div className="PortfolioCard" id={props.title} style={style}>
           <div className="CardText">
