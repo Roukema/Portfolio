@@ -86,9 +86,11 @@
   }
 }
 
-.CardContainer:hover .PortfolioCard {
+.CardContainer:hover,
+.CardContainer:active .PortfolioCard {
   transform: rotateY(180deg);
 }
-.CardContainer:hover .CardBack {
+.CardContainer:hover,
+.CardContainer:active .CardBack {
   transform: rotateY(0deg);
 }
