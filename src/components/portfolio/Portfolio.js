@@ -7,7 +7,7 @@ const Portfolio = (props) => {
     <div className="Portfolio">
       <PortfolioCard
         title="Winc Academy"
-        description="Bij Winc Academy heb ik mijn programeer-basis gelegd, zij hebben mij in 6 weken de basis van het programmeren bijgebracht. Op github kun je zien hoe ik steeds verder kwam door opdrachten te maken. "
+        description="Bij Winc Academy heb ik mijn programeer-basis gelegd, zij hebben mij in 6 weken de basis van het programmeren bijgebracht. Op github kun je zien hoe ik mij heb ontwikkeld. "
         githubLink="https://github.com/Roukema/Winc-Academy"
         netlifyLink=""
         backgroundImage="Images/cropped-logoglat-small.png"
@@ -15,7 +15,7 @@ const Portfolio = (props) => {
       />
       <PortfolioCard
         title="Front-End Case"
-        description="Deze Case laat zien goed zien dat ik een ontwerp kan vertalen naar en website. In eerste instantie is deze site gemaakt als Wordpress-thema"
+        description="Deze Case laat goed zien dat ik een ontwerp kan vertalen naar en website. In eerste instantie is deze site gemaakt als Wordpress-thema"
         githubLink="https://github.com/Roukema/Front-End-Case"
         netlifyLink="https://vigorous-hugle-d6a2f4.netlify.app/"
         backgroundImage="Images/Front-End-Case.png"
@@ -31,7 +31,7 @@ const Portfolio = (props) => {
       />
       <PortfolioCard
         title="Python Snake"
-        description="Op mijn Raspberry-pi ben ik ook flink aan het experimenten. Ik heb bijvoorbeeld een spelletje Snake gemaakt."
+        description="Op mijn Raspberry-pi ben ik ook flink aan het experimenten. Ik heb bijvoorbeeld het spelletje Snake gemaakt."
         githubLink="https://github.com/Roukema/Raspberry_Python_Projecten/blob/master/snakeGame.py"
         netlifyLink=""
         backgroundImage="Images/Snake_pygame.png"
@@ -39,7 +39,7 @@ const Portfolio = (props) => {
       />
       <PortfolioCard
         title="Arduino"
-        description="In mijn vrije tijd vind ik het erg leuk om met arduino verschillend projectjes te maken. Hier komen Elektrotechniek en Programeren samen."
+        description="In mijn vrije tijd vind ik het erg leuk om met arduino verschillende projectjes te maken. Hier komen Elektrotechniek en Programeren samen."
         githubLink="https://github.com/Roukema/Arduino_Stoplicht/blob/master/stoplichtdagnachtbutton.ino"
         netlifyLink=""
         backgroundImage="Images/IMG_8204.jpg"
