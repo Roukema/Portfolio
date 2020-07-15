@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,iBAAiB,CAAC;EAChB,QAAQ,EAAE,QAAQ;EAElB,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,IAAI;EACb,gBAAgB,ECJN,OAAO;CDclB;;AAfD,AAME,iBANe,CAMf,CAAC,CAAC;EACA,eAAe,EAAE,IAAI;EACrB,WAAW,EAAE,MAAM;EACnB,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;CAId;;AAdH,AAWI,iBAXa,CAMf,CAAC,CAKC,GAAG,CAAC;EACF,MAAM,EAAE,GAAG;CACZ",
+    "sources": [
+        "Contact.scss",
+        "../../Style/Variables.scss"
+    ],
+    "names": [],
+    "file": "Contact.css"
+}

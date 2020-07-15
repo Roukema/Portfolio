@@ -1,0 +1,18 @@
+.ContactContainer {
+  position: relative;
+  text-align: center;
+  padding: 30px;
+  background-color: #18181e;
+}
+
+.ContactContainer a {
+  text-decoration: none;
+  white-space: nowrap;
+  color: white;
+  padding: 30px;
+}
+
+.ContactContainer a img {
+  height: 1em;
+}
+/*# sourceMappingURL=Contact.css.map */

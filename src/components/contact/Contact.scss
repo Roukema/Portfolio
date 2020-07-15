@@ -1,0 +1,18 @@
+@import "../../Style/Variables.scss";
+
+.ContactContainer {
+  position: relative;
+  //   width: 100vw;
+  text-align: center;
+  padding: 30px;
+  background-color: $baseBlack;
+  a {
+    text-decoration: none;
+    white-space: nowrap;
+    color: white;
+    padding: 30px;
+    img {
+      height: 1em;
+    }
+  }
+}
