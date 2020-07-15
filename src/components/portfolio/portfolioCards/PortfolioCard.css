@@ -106,6 +106,16 @@
   padding: 20px;
 }
 
+.CardContainer:active .PortfolioCard {
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg);
+}
+
+.CardContainer:active .CardBack {
+  -webkit-transform: rotateY(0deg);
+          transform: rotateY(0deg);
+}
+
 @media (hover: hover) and (pointer: fine) {
   .CardContainer:hover .PortfolioCard {
     -webkit-transform: rotateY(180deg);

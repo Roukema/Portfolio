@@ -8,7 +8,7 @@ const PortfolioCard = (props) => {
   };
 
   return (
-    <div className="CardContainer" ontouchstart="touchFunctie">
+    <div className="CardContainer" onClick="">
       <div className="FlipCard">
         <div className="PortfolioCard" id={props.title} style={style}>
           <div className="CardText">
@@ -31,15 +31,6 @@ const PortfolioCard = (props) => {
           </div>
         </div>
       </div>
-      <script>
-        function touchFunctie()
-        {
-          ((document.getElementsByClassName("PortfolioCard").style.transform =
-            "rotateY(180deg)"),
-          (document.getElementsByClassName("CardBack").style.transform =
-            "rotateY(0deg)"))
-        }
-      </script>
     </div>
   );
 };
