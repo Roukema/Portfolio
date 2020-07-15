@@ -1,4 +1,4 @@
-@import "../../Style/Variables.scss";
+@import "../../../Style/Variables.scss";
 
 .CardContainer {
   display: block;
@@ -86,11 +86,11 @@
   }
 }
 
-.CardContainer:hover,
-.CardContainer:active .PortfolioCard {
-  transform: rotateY(180deg);
-}
-.CardContainer:hover,
-.CardContainer:active .CardBack {
-  transform: rotateY(0deg);
+@media (hover: hover) and (pointer: fine) {
+  .CardContainer:hover .PortfolioCard {
+    transform: rotateY(180deg);
+  }
+  .CardContainer:hover .CardBack {
+    transform: rotateY(0deg);
+  }
 }
