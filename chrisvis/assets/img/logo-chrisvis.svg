@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 140" role="img" aria-label="Chrisvis">
+  <g fill="#1a1512">
+    <text x="0" y="118" font-family="'Oswald', 'Arial Narrow', sans-serif" font-weight="700" font-size="118" letter-spacing="-1">CHRISVIS</text>
+    <g transform="translate(430 -6) rotate(-32 90 70)">
+      <rect x="6" y="66" width="120" height="16" rx="7"/>
+      <path d="M118 34h30a12 12 0 0 1 12 12v16a12 12 0 0 1-12 12h-30a14 14 0 0 1-14-14v-12a14 14 0 0 1 14-14z"/>
+    </g>
+    <g stroke="#1a1512" stroke-width="6" stroke-linecap="round">
+      <line x1="556" y1="30" x2="572" y2="10"/>
+      <line x1="570" y1="44" x2="592" y2="38"/>
+      <line x1="562" y1="60" x2="580" y2="66"/>
+    </g>
+  </g>
+</svg>
